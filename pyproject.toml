@@ -13,6 +13,7 @@ torch = "^2.1.1"
 jupyter = "^1.0.0"
 modelscope = "^1.9.5"
 gradio = "^4.7.1"
+torchvision = "^0.16.1"
 
 
 [[tool.poetry.source]]
