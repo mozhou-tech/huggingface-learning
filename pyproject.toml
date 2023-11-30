@@ -14,6 +14,10 @@ jupyter = "^1.0.0"
 modelscope = "^1.9.5"
 gradio = "^4.7.1"
 torchvision = "^0.16.1"
+open-clip-torch = "^2.23.0"
+opencv-python = "^4.8.1.78"
+librosa = "^0.10.1"
+fairseq = { git = "https://github.com/One-sixth/fairseq.git", branch = "main" }
 
 
 [[tool.poetry.source]]
